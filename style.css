@@ -1,0 +1,314 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+                         /* HEADER SECTION */
+header{
+    height:500px;
+    
+}
+
+.container{
+    display: flex;
+    margin-bottom: 2rem;
+}
+.container .left {
+  margin-top: 0.5rem;
+  display: flex;
+  width: 35%;
+}
+.container .left h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-top: 0.8rem;
+}
+.container .right {
+  width: 65%;
+  margin-right: 3rem;
+}
+.navbar ul {
+  display: flex;
+  justify-content: flex-end;
+}
+.navbar ul li a {
+  text-decoration: none;
+    font-size: 1.8rem;
+    cursor: pointer;
+    color: black;}
+
+    .navbar ul li {
+      padding: 0.3rem 0.3rem;
+      list-style: none;
+      margin: 2rem 3rem 1rem 1.5rem;
+  }
+  #searchicon {
+    height: 2.8rem;
+    width: 2.8rem;
+    cursor: pointer;
+    margin: 1.7rem 3rem 1rem 1.5rem;
+}
+.container .buttons button {
+  padding: 0.8rem 1.6rem;
+  margin-left: 5rem;
+  margin: 1.5rem 3rem 1rem 1.5rem;
+  background-color: orangered;
+  color: white;
+  border: 0.2rem solid white;
+  outline: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+
+
+
+
+
+.first-section{
+    height: 400px;
+    width:94%;
+    margin: auto;
+
+}
+.picture{
+    height: 400px;
+    
+    width:50%;
+    float:right ;
+    
+}
+.first-text{
+    height: 400px;
+    
+    width:50%;
+    
+    
+}
+.G{
+height: 32px;
+width:18%
+}
+                         /* SERVICE SECTION */
+.service{
+    height: 120px;
+    width:100%;
+    
+}
+                      /* PRODUCT SECTION */
+.product{
+    height: 350px;
+    width: 94%;
+    margin: auto;
+    
+}
+.p1{
+    height: 350px;
+    float:right;
+    
+    width:32%;
+    border: 1px solid #dfe6e9;
+
+}
+.p2{
+  height: 350px;
+  
+  float: right;
+  width:1.9%;
+}
+.p3{
+    height: 350px;
+    float: right;
+   
+    margin-left: -10px;
+    width:32%;
+    border: 1px solid #dfe6e9;
+
+}
+.L{
+    height: 350px;
+    
+    width:32%;
+    border: 1px solid #dfe6e9;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    padding-top: 40px;
+  }
+
+  .N{
+    height: 140px;
+    width:8%;
+    margin: auto;
+    
+  }
+  .but{
+    margin-top: 40px;
+   
+    background-color: black;
+    color: white;
+    height: 33px;
+    width:100%;
+    
+
+  }
+  .P{
+    height: 120px;
+    width:100%;
+    
+  }
+  .Q{
+    height: 270px;
+    width:94%;
+    margin: auto;
+    
+
+  }
+  .R{
+    float: right;
+    height: 250px;
+    width:30%;
+   
+
+  }
+  .S{
+    
+    height: 270px;
+    
+    width:70%;
+    
+
+  }
+  .imgo{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+  }
+  .sku{
+    background-color:black;
+    border: none;
+    height: 35px;
+   width: 12%;
+    color: white;
+  }
+  .c-text{
+    height: 100px;
+    width: 100%;
+    
+  }
+  .c_detail{
+    height: 600px;
+    width: 100%;
+    
+    text-align:center; 
+    position: relative;
+     display: inline-block;
+  }
+                   /* SECTION CLASS */
+  .section{
+    height: 400px;
+    width:94%;
+    margin: auto;
+    
+  }
+  .dish{
+    float: right;
+    height: 400px;
+    width: 50%;
+   
+
+  }
+  .data{
+    height: 400px;
+    width: 50%;
+    
+
+  }
+  .inp{
+    outline: 0;
+    border-width: 0 0 3px;
+    border-color: blue;
+    height: 40px;
+    width: 96%;
+  }
+  .sty{
+    border: none;
+    height: 35px;
+    width: 11%;
+    background-color: red;
+    color: white;
+
+  }
+  .Y{
+    height: 100px;
+    width:94%;
+    margin: auto;
+    
+  }
+  .lsection{
+    height: 300px;
+    width:94%;
+    margin: auto;
+    
+
+  }
+  .l1{
+    height: 300px;
+    float: right;
+    width:25%;
+    
+
+  }
+  .l2{
+    float: right;
+    height: 300px;
+    width:25%;
+    
+
+  }
+  .l3{
+    float: right    ;
+    height: 300px;
+    width:25%;
+    
+
+  }
+  .l4{
+    float: right;
+    height: 300px;
+    width:25%;
+   
+
+  }
+  ul li{
+    list-style-type: none;
+  }
+  .try{
+    clear: both;
+  }
+  .lig{
+    padding-left: 10px;
+  }
+  .sub{
+    height: 30px;
+    background-color: red;
+    width: 30%;
+  }
+
+  footer{
+    text-align: center;
+    height: 50px;
+    width: 94%;
+    margin: auto;
+    background-color: rgba(226, 247, 246, 0.89);
+  }
+
+
+
+
